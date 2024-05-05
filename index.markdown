@@ -25,8 +25,8 @@ image: /assets/brand/Cloud_Music_for_Plex_icon2.png
     </div>
 </div>
 
-<div class="container pt-5" id="icon-grid">
-    <h2 class="pb-2 border-bottom" id="features">Features</h2>
+<div class="container pt-5" id="features">
+    <h2 class="pb-2 border-bottom">Features</h2>
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4 py-5">
         <div class="col d-flex align-items-start">
             <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"> <use xlink:href="#person-check" /></svg>
@@ -89,8 +89,8 @@ image: /assets/brand/Cloud_Music_for_Plex_icon2.png
     </div>
 </div>
 
-<div class="container pt-5">
-    <h2 class="pb-2 border-bottom" id="pricing">Subscribe now!</h2>
+<div class="container pt-5" id="pricing">
+    <h2 class="pb-2 border-bottom">Subscribe now!</h2>
     <div class="col-lg-12 mx-auto">
         <p class="lead mb-4">Take <strong>your</strong> music with you on your activities. Always have your
             latest songs or podcasts available, anywhere you go. Going for a run, a swim or a gym workout? Keep
@@ -145,8 +145,8 @@ image: /assets/brand/Cloud_Music_for_Plex_icon2.png
     </div>
 </div>
 
-<div class="container pt-5">
-    <h2 class="pb-2 border-bottom" id="faqs">Frequently Asked Questions</h2>
+<div class="container pt-5" id="faqs">
+    <h2 class="pb-2 border-bottom">Frequently Asked Questions</h2>
     <div class="row g-4 py-5 row-cols-1 row-cols-lg-2">
         <div class="feature col">
             <h3 class="fs-2">What does this app do?</h3>
