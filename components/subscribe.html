@@ -14,5 +14,5 @@
     const pricing_table = document.getElementById("pricing_table");
     pricing_table.replaceWith(stripe_pricing_table);
 
-    console.log('done: ' + client_reference_id);
+    if (client_reference_id) posthog.alias(client_reference_id);
 </script>
