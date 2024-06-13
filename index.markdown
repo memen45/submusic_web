@@ -185,20 +185,16 @@ image: /assets/brand/Cloud_Music_for_Plex_icon2.png
             </p>
         </div>
         <div class="feature col">
-            <h3 class="fs-2">How do I contact support?</h3>
-            <p>If you ancounter any issues, please use the 'Contact Developer' option over on the <a
-                    href="https://apps.garmin.com/en-US/apps/30c6b7ab-7fc8-4241-99f5-9872dfe56a73"
-                    class="text-reset">Connect IQ app store</a> to contact our support. Send your email address
-                and Device ID along with your message.
-            </p>
-        </div>
-        <div class="feature col">
             <h3 class="fs-2">How do I manage my subscriptions?</h3>
             <p>All subscription info and links can always be found in the SubMusic for Plex app on your watch.
                 Open the SubMusic for Plex menu on your watch, choose Settings > Subscription > Manage
                 subscription. Or <a href="https://billing.stripe.com/p/login/6oE5l82XT9Y52Gc3cc" target="_blank"
                     class="text-reset">Manage Subscriptions here</a>. Make sure you use the same mail address to
                 login as you used when subscribing!</p>
+        </div>
+        <div class="feature col">
+            <h3 class="fs-2">What is the Refund Policy?</h3>
+            <p>Yearly subscriptions can be refunded only during the first 30 day period. Monthly subscriptions are always refundable for the currently active period. We don't want to keep your money if you are not going to be able to get value out of SubMusic for Plex. Refunds will be issued within two weeks of the refund request but usually go through within a few days.</p>
         </div>
         <div class="feature col">
             <h3 class="fs-2">Is my device supported by SubMusic for Plex?</h3>
@@ -442,6 +438,10 @@ image: /assets/brand/Cloud_Music_for_Plex_icon2.png
             </ul>
         </div>
     </div>
+    <div class="col-lg-12 mx-auto">
+        <p class="lead mb-4 text-center">If you have any other questions please let us know by emailing to submusicapp@gmail.com</p>
+    </div>
+
 </div>
 
 <div class="container" id="download">
